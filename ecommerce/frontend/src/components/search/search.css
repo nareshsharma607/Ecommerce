@@ -1,0 +1,14 @@
+.search-box {
+    
+    margin-top: 20px;
+    padding: 10px;
+    width: 400px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  .search-label{
+    font-size: large;
+    font-weight: 700;
+    margin-left: 50px;
+  }
+  
